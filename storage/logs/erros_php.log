@@ -1,0 +1,525 @@
+[2026-06-29 19:53:56] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 19:54:41] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 19:57:12] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 19:57:27] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 20:00:58] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 20:14:01] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 20:15:17] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:18:26] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:32:41] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:34:42] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:34:53] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:34:55] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:34:56] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:34:57] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:35:40] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:35:40] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:36:11] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:50:07] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:50:09] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:50:09] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:50:09] ERRO: Class "App\Models\UsuarioModelo" not found em C:\xampp\htdocs\regnotas\public\login.php:42
+#0 {main}
+[2026-06-29 20:50:26] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 20:50:28] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 20:50:45] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 20:51:16] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 20:57:14] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 20:57:29] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 20:57:36] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 20:58:01] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 20:58:36] ERRO: Class "App\Models\OcorrenciaModelo" not found em C:\xampp\htdocs\regnotas\public\index.php:18
+#0 {main}
+[2026-06-29 21:18:50] ERRO: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '006057619LS044@RegNota.com' for key 'uk_usuario_email' em C:\xampp\htdocs\regnotas\app\Models\Modelos.php:347
+#0 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(347): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(453): App\Models\UsuarioModelo->criarUsuario('Alberto Gide\xC3\xA3o', '006057619LS044@...', 'RegNota@123', 'coordenador')
+#2 C:\xampp\htdocs\regnotas\public\admin\coordenadores.php(35): App\Models\CoordenadorModelo->criar(Array)
+#3 {main}
+[2026-06-29 23:52:17] ERRO: Call to a member function listarTodas() on null em C:\xampp\htdocs\regnotas\public\coordenador\ocorrencias.php:84
+#0 {main}
+[2026-06-29 23:53:46] ERRO: Call to a member function listarTodas() on null em C:\xampp\htdocs\regnotas\public\coordenador\ocorrencias.php:84
+#0 {main}
+[2026-06-29 23:55:09] ERRO: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '006586946LS042' for key 'uk_prof_bi' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:60
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(60): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(562): App\Models\ModeloBase->executar('\n            IN...', Array)
+#2 C:\xampp\htdocs\regnotas\public\coordenador\professores.php(28): App\Models\ProfessorModelo->criar(Array)
+#3 {main}
+[2026-06-29 23:59:43] ERRO: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '006057619LS044' for key 'uk_prof_bi' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:60
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(60): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(576): App\Models\ModeloBase->executar('\n            UP...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\professores.php(53): App\Models\ProfessorModelo->actualizar(5, Array)
+#3 {main}
+[2026-06-30 00:30:25] ERRO: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`regnotas`.`coordenadores`, CONSTRAINT `fk_coord_usuario` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`) ON UPDATE CASCADE) em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:60
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(60): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(415): App\Models\ModeloBase->executar('DELETE FROM usu...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\usuarios.php(54): App\Models\UsuarioModelo->eliminar(4)
+#3 {main}
+[2026-06-30 00:30:42] ERRO: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`regnotas`.`coordenadores`, CONSTRAINT `fk_coord_usuario` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`) ON UPDATE CASCADE) em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:60
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(60): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(415): App\Models\ModeloBase->executar('DELETE FROM usu...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\usuarios.php(54): App\Models\UsuarioModelo->eliminar(4)
+#3 {main}
+[2026-06-30 00:30:48] ERRO: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`regnotas`.`coordenadores`, CONSTRAINT `fk_coord_usuario` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`) ON UPDATE CASCADE) em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:60
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(60): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(415): App\Models\ModeloBase->executar('DELETE FROM usu...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\usuarios.php(54): App\Models\UsuarioModelo->eliminar(5)
+#3 {main}
+[2026-06-30 00:31:17] ERRO: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`regnotas`.`coordenadores`, CONSTRAINT `fk_coord_usuario` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`) ON UPDATE CASCADE) em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:60
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(60): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(415): App\Models\ModeloBase->executar('DELETE FROM usu...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\usuarios.php(54): App\Models\UsuarioModelo->eliminar(5)
+#3 {main}
+[2026-07-01 22:25:14] ERRO: Call to a member function listarTodas() on null em C:\xampp\htdocs\regnotas\public\admin\disciplinas.php:109
+#0 {main}
+[2026-07-01 22:25:15] ERRO: Call to a member function listarTodas() on null em C:\xampp\htdocs\regnotas\public\admin\disciplinas.php:109
+#0 {main}
+[2026-07-02 00:11:38] ERRO: Erro de ligação à base de dados: SQLSTATE[HY000] [2002] Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente em C:\xampp\htdocs\regnotas\app\Helpers\Bd.php:53
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 C:\xampp\htdocs\regnotas\public\admin\turmas.php(12): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-07-02 00:11:43] ERRO: Erro de ligação à base de dados: SQLSTATE[HY000] [2002] Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente em C:\xampp\htdocs\regnotas\app\Helpers\Bd.php:53
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(16): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-07-02 00:11:47] ERRO: Erro de ligação à base de dados: SQLSTATE[HY000] [2002] Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente em C:\xampp\htdocs\regnotas\app\Helpers\Bd.php:53
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(16): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-07-02 00:11:51] ERRO: Erro de ligação à base de dados: SQLSTATE[HY000] [2002] Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente em C:\xampp\htdocs\regnotas\app\Helpers\Bd.php:53
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(16): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-07-02 00:11:58] ERRO: Erro de ligação à base de dados: SQLSTATE[HY000] [2002] Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente em C:\xampp\htdocs\regnotas\app\Helpers\Bd.php:53
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(16): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-07-02 00:12:15] ERRO: Erro de ligação à base de dados: SQLSTATE[HY000] [2002] Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente em C:\xampp\htdocs\regnotas\app\Helpers\Bd.php:53
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 C:\xampp\htdocs\regnotas\public\admin\index.php(16): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-07-02 00:12:32] ERRO: Erro de ligação à base de dados: SQLSTATE[HY000] [2002] Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente em C:\xampp\htdocs\regnotas\app\Helpers\Bd.php:53
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(16): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-07-02 00:12:39] ERRO: Erro de ligação à base de dados: SQLSTATE[HY000] [2002] Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente em C:\xampp\htdocs\regnotas\app\Helpers\Bd.php:53
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 C:\xampp\htdocs\regnotas\public\admin\cursos.php(12): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-07-02 00:12:52] ERRO: Erro de ligação à base de dados: SQLSTATE[HY000] [2002] Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente em C:\xampp\htdocs\regnotas\app\Helpers\Bd.php:53
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 C:\xampp\htdocs\regnotas\public\admin\index.php(16): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-07-02 00:13:00] ERRO: Erro de ligação à base de dados: SQLSTATE[HY000] [2002] Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente em C:\xampp\htdocs\regnotas\app\Helpers\Bd.php:53
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(16): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-07-02 00:13:15] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(794): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 00:13:16] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(794): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 00:13:16] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(794): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 00:13:20] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(794): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 00:13:26] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(794): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 00:13:26] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(794): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 00:13:45] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(794): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\relatorios.php(34): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 00:19:44] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(794): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\relatorios.php(34): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 00:19:46] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(794): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\relatorios.php(34): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 00:19:48] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(794): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\relatorios.php(34): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 00:34:29] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(794): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\relatorios.php(34): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 00:34:46] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(794): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\relatorios.php(34): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 00:35:02] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(1001): App\Models\ModeloBase->consultar('\n            SE...')
+#2 C:\xampp\htdocs\regnotas\public\admin\index.php(25): App\Models\OcorrenciaModelo->estatisticasPorDisciplina(8)
+#3 {main}
+[2026-07-02 00:35:05] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(794): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 00:35:08] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(1001): App\Models\ModeloBase->consultar('\n            SE...')
+#2 C:\xampp\htdocs\regnotas\public\admin\index.php(25): App\Models\OcorrenciaModelo->estatisticasPorDisciplina(8)
+#3 {main}
+[2026-07-02 00:38:29] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(1001): App\Models\ModeloBase->consultar('\n            SE...')
+#2 C:\xampp\htdocs\regnotas\public\admin\index.php(25): App\Models\OcorrenciaModelo->estatisticasPorDisciplina(8)
+#3 {main}
+[2026-07-02 00:38:30] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(1001): App\Models\ModeloBase->consultar('\n            SE...')
+#2 C:\xampp\htdocs\regnotas\public\admin\index.php(25): App\Models\OcorrenciaModelo->estatisticasPorDisciplina(8)
+#3 {main}
+[2026-07-02 01:09:23] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:09:25] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:09:30] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(1012): App\Models\ModeloBase->consultar('\n            SE...')
+#2 C:\xampp\htdocs\regnotas\public\admin\index.php(25): App\Models\OcorrenciaModelo->estatisticasPorDisciplina(8)
+#3 {main}
+[2026-07-02 01:10:25] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(1012): App\Models\ModeloBase->consultar('\n            SE...')
+#2 C:\xampp\htdocs\regnotas\public\admin\index.php(25): App\Models\OcorrenciaModelo->estatisticasPorDisciplina(8)
+#3 {main}
+[2026-07-02 01:10:39] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(1012): App\Models\ModeloBase->consultar('\n            SE...')
+#2 C:\xampp\htdocs\regnotas\public\admin\index.php(25): App\Models\OcorrenciaModelo->estatisticasPorDisciplina(8)
+#3 {main}
+[2026-07-02 01:10:40] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(1012): App\Models\ModeloBase->consultar('\n            SE...')
+#2 C:\xampp\htdocs\regnotas\public\admin\index.php(25): App\Models\OcorrenciaModelo->estatisticasPorDisciplina(8)
+#3 {main}
+[2026-07-02 01:10:40] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(1012): App\Models\ModeloBase->consultar('\n            SE...')
+#2 C:\xampp\htdocs\regnotas\public\admin\index.php(25): App\Models\OcorrenciaModelo->estatisticasPorDisciplina(8)
+#3 {main}
+[2026-07-02 01:10:59] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(1012): App\Models\ModeloBase->consultar('\n            SE...')
+#2 C:\xampp\htdocs\regnotas\public\admin\index.php(25): App\Models\OcorrenciaModelo->estatisticasPorDisciplina(8)
+#3 {main}
+[2026-07-02 01:11:43] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:09] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:10] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:11] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:17] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:19] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:21] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:22] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.nome' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:37] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.codigo' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:43] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.codigo' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:47] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.codigo' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:49] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.codigo' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:51] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.codigo' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:51] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.codigo' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:52] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.codigo' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\ocorrencias.php(98): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 01:12:56] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.codigo' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(1023): App\Models\OcorrenciaModelo->listarTodas(Array, 10, 0)
+#3 C:\xampp\htdocs\regnotas\public\admin\index.php(26): App\Models\OcorrenciaModelo->obterRecentes(10)
+#4 {main}
+[2026-07-02 01:13:11] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.codigo' in 'field list' em C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php:36
+#0 C:\xampp\htdocs\regnotas\app\Models\ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 C:\xampp\htdocs\regnotas\app\Models\Modelos.php(805): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 C:\xampp\htdocs\regnotas\public\admin\relatorios.php(34): App\Models\OcorrenciaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 11:06:14] ERRO: Erro de ligação à base de dados: SQLSTATE[HY000] [1049] Unknown database 'regnotas' em /opt/lampp/htdocs/regnotas/app/Helpers/Bd.php:53
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 /opt/lampp/htdocs/regnotas/public/index.php(18): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-07-02 11:06:26] ERRO: Erro de ligação à base de dados: SQLSTATE[HY000] [1049] Unknown database 'regnotas' em /opt/lampp/htdocs/regnotas/app/Helpers/Bd.php:53
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 /opt/lampp/htdocs/regnotas/public/index.php(18): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-07-02 11:09:12] ERRO: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'regnotas.grade_curricular' doesn't exist em /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php:36
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(721): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 /opt/lampp/htdocs/regnotas/public/index.php(82): App\Models\DisciplinaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 11:09:13] ERRO: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'regnotas.grade_curricular' doesn't exist em /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php:36
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(721): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 /opt/lampp/htdocs/regnotas/public/index.php(82): App\Models\DisciplinaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 11:09:25] ERRO: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'regnotas.grade_curricular' doesn't exist em /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php:36
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(721): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 /opt/lampp/htdocs/regnotas/public/index.php(82): App\Models\DisciplinaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 11:09:55] ERRO: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'regnotas.grade_curricular' doesn't exist em /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php:36
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(721): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 /opt/lampp/htdocs/regnotas/public/index.php(82): App\Models\DisciplinaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 11:10:05] ERRO: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'regnotas.grade_curricular' doesn't exist em /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php:36
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(721): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 /opt/lampp/htdocs/regnotas/public/index.php(82): App\Models\DisciplinaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 11:12:20] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.turma_id' in 'on clause' em /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php:36
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(721): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 /opt/lampp/htdocs/regnotas/public/index.php(82): App\Models\DisciplinaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 11:12:45] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.turma_id' in 'on clause' em /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php:36
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(721): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 /opt/lampp/htdocs/regnotas/public/index.php(82): App\Models\DisciplinaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 11:12:46] ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.turma_id' in 'on clause' em /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php:36
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(721): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 /opt/lampp/htdocs/regnotas/public/index.php(82): App\Models\DisciplinaModelo->listarTodas(Array)
+#3 {main}
+[2026-07-02 13:13:55] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:14:56] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:20:08] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:20:10] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:20:13] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:21:07] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:21:10] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:21:11] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:21:35] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:21:38] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:21:39] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:22:28] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:22:38] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:23:48] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:28:33] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:28:34] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:40:30] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:41:34] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:41:46] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:49:59] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:56:15] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 13:56:28] ERRO: Call to undefined method App\Helpers\Sessao::token() em /opt/lampp/htdocs/regnotas/public/admin/professores.php:322
+#0 {main}
+[2026-07-02 14:24:59] ERRO: Call to undefined method App\Models\ProfessorModelo::obterPorUsuario() em /opt/lampp/htdocs/regnotas/public/professor/index.php:19
+#0 {main}
+[2026-07-02 14:25:17] ERRO: Call to undefined method App\Models\ProfessorModelo::obterPorUsuario() em /opt/lampp/htdocs/regnotas/public/professor/index.php:19
+#0 {main}
+[2026-07-02 14:25:24] ERRO: Call to undefined method App\Models\ProfessorModelo::obterPorUsuario() em /opt/lampp/htdocs/regnotas/public/professor/index.php:19
+#0 {main}
+[2026-07-02 14:25:29] ERRO: Call to undefined method App\Models\ProfessorModelo::obterPorUsuario() em /opt/lampp/htdocs/regnotas/public/professor/index.php:19
+#0 {main}
+[2026-07-02 14:25:31] ERRO: Call to undefined method App\Models\ProfessorModelo::obterPorUsuario() em /opt/lampp/htdocs/regnotas/public/professor/index.php:19
+#0 {main}
+[2026-07-02 14:25:32] ERRO: Call to undefined method App\Models\ProfessorModelo::obterPorUsuario() em /opt/lampp/htdocs/regnotas/public/professor/index.php:19
+#0 {main}
+[2026-07-02 14:25:32] ERRO: Call to undefined method App\Models\ProfessorModelo::obterPorUsuario() em /opt/lampp/htdocs/regnotas/public/professor/index.php:19
+#0 {main}
+[2026-07-02 14:25:33] ERRO: Call to undefined method App\Models\ProfessorModelo::obterPorUsuario() em /opt/lampp/htdocs/regnotas/public/professor/index.php:19
+#0 {main}
+[2026-07-02 14:25:33] ERRO: Call to undefined method App\Models\ProfessorModelo::obterPorUsuario() em /opt/lampp/htdocs/regnotas/public/professor/index.php:19
+#0 {main}
+[2026-07-02 14:25:33] ERRO: Call to undefined method App\Models\ProfessorModelo::obterPorUsuario() em /opt/lampp/htdocs/regnotas/public/professor/index.php:19
+#0 {main}
+[2026-07-02 14:28:24] ERRO: Call to undefined method App\Models\ProfessorModelo::obterPorUsuario() em /opt/lampp/htdocs/regnotas/public/professor/index.php:19
+#0 {main}
+[2026-07-02 14:54:08] ERRO: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'ativo' in where clause is ambiguous em /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php:36
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(36): PDO->prepare('\n            SE...')
+#1 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(671): App\Models\ModeloBase->consultar('\n            SE...', Array)
+#2 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(321): App\Models\GradeCurricularModelo->listarTodas(Array)
+#3 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(267): App\Models\TurmaModelo->preCadastrarDisciplinas(11)
+#4 /opt/lampp/htdocs/regnotas/public/setup_courses.php(66): App\Models\TurmaModelo->criar(2, 2, 1, '101')
+#5 {main}
+[2026-07-02 14:54:36] ERRO: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'CUR001' for key 'uk_curso_codigo' em /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php:60
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(60): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(65): App\Models\ModeloBase->executar('\n            IN...', Array)
+#2 /opt/lampp/htdocs/regnotas/public/setup_courses.php(58): App\Models\CursoModelo->criar('ENSINO PRIM\xC3\x81RI...', 'CUR001', 1, 5)
+#3 {main}
+[2026-07-02 14:55:13] ERRO: Call to protected method App\Models\ModeloBase::consultarUm() from global scope em /opt/lampp/htdocs/regnotas/public/setup_courses.php:56
+#0 {main}
+[2026-07-03 01:42:35] ERRO: SQLSTATE[HY000]: General error: 1364 Field 'nome' doesn't have a default value em /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php:60
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(60): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(773): App\Models\ModeloBase->executar('\n            IN...', Array)
+#2 /opt/lampp/htdocs/regnotas/sync_database.php(72): App\Models\DisciplinaModelo->criar(Array)
+#3 {main}
+[2026-07-03 01:42:57] ERRO: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'professor_id' cannot be null em /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php:60
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(60): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(782): App\Models\ModeloBase->executar('\n            IN...', Array)
+#2 /opt/lampp/htdocs/regnotas/sync_database.php(72): App\Models\DisciplinaModelo->criar(Array)
+#3 {main}
+[2026-07-03 01:43:20] ERRO: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`regnotas`.`disciplinas`, CONSTRAINT `fk_disc_prof` FOREIGN KEY (`professor_id`) REFERENCES `professores` (`id`) ON UPDATE CASCADE) em /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php:60
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(60): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/regnotas/app/Models/Modelos.php(786): App\Models\ModeloBase->executar('\n            IN...', Array)
+#2 /opt/lampp/htdocs/regnotas/sync_database.php(72): App\Models\DisciplinaModelo->criar(Array)
+#3 {main}
+[2026-07-05 10:25:01] ERRO: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND em /opt/lampp/htdocs/regnotas/app/Helpers/Bd.php:43
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 /opt/lampp/htdocs/regnotas/public/setup_data_computacao.php(10): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-07-05 10:27:38] ERRO: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND em /opt/lampp/htdocs/regnotas/app/Helpers/Bd.php:43
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 /opt/lampp/htdocs/regnotas/public/setup_data_computacao.php(10): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-09-24 09:14:13] ERRO: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND em /opt/lampp/htdocs/regnotas/app/Helpers/Bd.php:43
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 /opt/lampp/htdocs/regnotas/public/index.php(18): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-09-24 09:14:16] ERRO: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND em /opt/lampp/htdocs/regnotas/app/Helpers/Bd.php:43
+#0 /opt/lampp/htdocs/regnotas/app/Models/ModeloBase.php(25): App\Helpers\Bd::obter()
+#1 /opt/lampp/htdocs/regnotas/public/index.php(18): App\Models\ModeloBase->__construct()
+#2 {main}
+[2026-10-08 10:19:29] ERRO: Failed opening required '/opt/lampp/htdocs/regnotas/views/shared/tema_head.php' (include_path='.:/opt/lampp/lib/php') em /opt/lampp/htdocs/regnota_correcoes_acumulado/public/index.php:121
+#0 {main}
